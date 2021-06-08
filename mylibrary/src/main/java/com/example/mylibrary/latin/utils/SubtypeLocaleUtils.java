@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -25,9 +25,9 @@ import java.util.HashMap;
 import java.util.Locale;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.LocaleUtils;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.LocaleUtils;
+import com.example.mylibrary.latin.common.StringUtils;
 
 /**
  * A helper class to deal with subtype locales.

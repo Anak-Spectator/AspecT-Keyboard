@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -35,9 +35,9 @@ import android.widget.SpinnerAdapter;
 import java.util.TreeSet;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.RichInputMethodManager;
-import com.abifog.lokiboard.latin.utils.AdditionalSubtypeUtils;
-import com.abifog.lokiboard.latin.utils.SubtypeLocaleUtils;
+import com.example.mylibrary.latin.RichInputMethodManager;
+import com.example.mylibrary.latin.utils.AdditionalSubtypeUtils;
+import com.example.mylibrary.latin.utils.SubtypeLocaleUtils;
 
 final class CustomInputStylePreference extends DialogPreference
         implements DialogInterface.OnCancelListener {

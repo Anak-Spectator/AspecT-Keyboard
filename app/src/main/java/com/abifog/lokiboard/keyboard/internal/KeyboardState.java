@@ -20,9 +20,9 @@ import android.text.TextUtils;
 import android.util.Log;
 
 import com.abifog.lokiboard.event.Event;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.utils.CapsModeUtils;
-import com.abifog.lokiboard.latin.utils.RecapitalizeStatus;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.utils.CapsModeUtils;
+import com.example.mylibrary.latin.utils.RecapitalizeStatus;
 
 /**
  * Keyboard state machine.

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;

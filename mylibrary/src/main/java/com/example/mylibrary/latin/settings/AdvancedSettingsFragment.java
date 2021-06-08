@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -25,7 +25,7 @@ import android.os.Bundle;
 
 import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.keyboard.KeyboardLayoutSet;
-import com.abifog.lokiboard.latin.AudioAndHapticFeedbackManager;
+import com.example.mylibrary.latin.AudioAndHapticFeedbackManager;
 
 /**
  * "Advanced" settings sub screen.

@@ -24,10 +24,10 @@ import java.util.Arrays;
 import java.util.Locale;
 
 import com.abifog.lokiboard.compat.EditorInfoCompatUtils;
-import com.abifog.lokiboard.latin.RichInputMethodSubtype;
-import com.abifog.lokiboard.latin.utils.InputTypeUtils;
+import com.example.mylibrary.latin.RichInputMethodSubtype;
+import com.example.mylibrary.latin.utils.InputTypeUtils;
 
-import static com.abifog.lokiboard.latin.common.Constants.Subtype.ExtraValue.KEYBOARD_LAYOUT_SET;
+import static com.example.mylibrary.latin.common.Constants.Subtype.ExtraValue.KEYBOARD_LAYOUT_SET;
 
 /**
  * Unique identifier for each keyboard type.

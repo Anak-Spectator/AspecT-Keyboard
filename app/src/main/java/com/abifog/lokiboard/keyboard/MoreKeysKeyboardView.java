@@ -24,8 +24,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.CoordinateUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.CoordinateUtils;
 
 /**
  * A view that renders a virtual {@link MoreKeysKeyboard}. It handles rendering of keys and

@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin;
+package com.example.mylibrary.latin;
 
 import android.text.InputType;
 import android.util.Log;
 import android.view.inputmethod.EditorInfo;
 
-import com.abifog.lokiboard.latin.common.StringUtils;
-import com.abifog.lokiboard.latin.utils.InputTypeUtils;
+import com.example.mylibrary.latin.common.StringUtils;
+import com.example.mylibrary.latin.utils.InputTypeUtils;
 
 /**
  * Class to hold attributes of the input field.

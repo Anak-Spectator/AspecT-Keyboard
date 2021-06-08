@@ -16,11 +16,11 @@
 
 package com.abifog.lokiboard.keyboard.internal;
 
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.StringUtils;
 
-import static com.abifog.lokiboard.latin.common.Constants.CODE_OUTPUT_TEXT;
-import static com.abifog.lokiboard.latin.common.Constants.CODE_UNSPECIFIED;
+import static com.example.mylibrary.latin.common.Constants.CODE_OUTPUT_TEXT;
+import static com.example.mylibrary.latin.common.Constants.CODE_UNSPECIFIED;
 
 /**
  * The string parser of the key specification.

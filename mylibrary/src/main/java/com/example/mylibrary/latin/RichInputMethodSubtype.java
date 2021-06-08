@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin;
+package com.example.mylibrary.latin;
 
 import android.os.Build;
 import android.util.Log;
@@ -25,8 +25,8 @@ import java.util.Locale;
 
 import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.compat.InputMethodSubtypeCompatUtils;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.utils.SubtypeLocaleUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.utils.SubtypeLocaleUtils;
 
 /**
  * Enrichment class for InputMethodSubtype to enable concurrent multi-lingual input.

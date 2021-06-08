@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.inputlogic;
+package com.example.mylibrary.latin.inputlogic;
 
 import android.os.SystemClock;
 import android.text.TextUtils;
@@ -28,20 +28,19 @@ import java.util.TreeSet;
 
 import com.abifog.lokiboard.event.Event;
 import com.abifog.lokiboard.event.InputTransaction;
-import com.abifog.lokiboard.latin.RichInputConnection;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.settings.SettingsValues;
-import com.abifog.lokiboard.latin.LatinIME;
-import com.abifog.lokiboard.latin.common.StringUtils;
-import com.abifog.lokiboard.latin.utils.InputTypeUtils;
-import com.abifog.lokiboard.latin.utils.RecapitalizeStatus;
+import com.example.mylibrary.latin.RichInputConnection;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.settings.SettingsValues;
+import com.example.mylibrary.latin.LatinIME;
+import com.example.mylibrary.latin.common.StringUtils;
+import com.example.mylibrary.latin.utils.InputTypeUtils;
+import com.example.mylibrary.latin.utils.RecapitalizeStatus;
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
-import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
 import android.util.Log;

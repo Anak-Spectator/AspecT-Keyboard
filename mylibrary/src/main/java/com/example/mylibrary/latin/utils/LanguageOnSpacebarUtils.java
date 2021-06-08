@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import android.view.inputmethod.InputMethodSubtype;
 
@@ -22,7 +22,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Locale;
 
-import com.abifog.lokiboard.latin.RichInputMethodSubtype;
+import com.example.mylibrary.latin.RichInputMethodSubtype;
 
 /**
  * This class determines that the language name on the spacebar should be displayed in what format.

@@ -21,7 +21,7 @@ import android.graphics.Canvas;
 import android.util.AttributeSet;
 import android.widget.RelativeLayout;
 
-import com.abifog.lokiboard.latin.common.CoordinateUtils;
+import com.example.mylibrary.latin.common.CoordinateUtils;
 
 public final class DrawingPreviewPlacerView extends RelativeLayout {
     private final int[] mKeyboardViewOrigin = CoordinateUtils.newInstance();

@@ -25,7 +25,7 @@ import java.util.TreeSet;
 
 import com.abifog.lokiboard.keyboard.Key;
 import com.abifog.lokiboard.keyboard.KeyboardId;
-import com.abifog.lokiboard.latin.common.Constants;
+import com.example.mylibrary.latin.common.Constants;
 
 public class KeyboardParams {
     public KeyboardId mId;

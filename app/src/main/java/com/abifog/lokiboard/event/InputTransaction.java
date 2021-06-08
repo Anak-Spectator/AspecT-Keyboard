@@ -16,7 +16,7 @@
 
 package com.abifog.lokiboard.event;
 
-import com.abifog.lokiboard.latin.settings.SettingsValues;
+import com.example.mylibrary.latin.settings.SettingsValues;
 
 /**
  * An object encapsulating a single transaction for input.

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin;
+package com.example.mylibrary.latin;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -35,11 +35,11 @@ import java.util.Locale;
 import java.util.Map;
 
 import com.abifog.lokiboard.compat.InputMethodSubtypeCompatUtils;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.settings.Settings;
-import com.abifog.lokiboard.latin.utils.AdditionalSubtypeUtils;
-import com.abifog.lokiboard.latin.utils.LanguageOnSpacebarUtils;
-import com.abifog.lokiboard.latin.utils.SubtypeLocaleUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.settings.Settings;
+import com.example.mylibrary.latin.utils.AdditionalSubtypeUtils;
+import com.example.mylibrary.latin.utils.LanguageOnSpacebarUtils;
+import com.example.mylibrary.latin.utils.SubtypeLocaleUtils;
 
 /**
  * Enrichment class for InputMethodManager to simplify interaction and add functionality.

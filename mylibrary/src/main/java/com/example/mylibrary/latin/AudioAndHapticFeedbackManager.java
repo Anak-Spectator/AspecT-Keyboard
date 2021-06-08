@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin;
+package com.example.mylibrary.latin;
 
 import android.content.Context;
 import android.media.AudioManager;
@@ -22,8 +22,8 @@ import android.os.Vibrator;
 import android.view.HapticFeedbackConstants;
 import android.view.View;
 
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.settings.SettingsValues;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.settings.SettingsValues;
 
 /**
  * This class gathers audio feedback and haptic feedback functions.

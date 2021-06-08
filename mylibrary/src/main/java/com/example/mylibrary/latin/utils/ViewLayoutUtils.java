@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import android.view.View;
 import android.view.ViewGroup;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.define;
+package com.example.mylibrary.latin.define;
 
 import android.content.SharedPreferences;
 

@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.os.Bundle;
 import android.preference.PreferenceScreen;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.utils.ApplicationUtils;
+import com.example.mylibrary.latin.utils.ApplicationUtils;
 
 public final class SettingsFragment extends InputMethodSettingsFragment {
     @Override

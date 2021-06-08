@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.content.res.Resources;
 
 import java.util.Arrays;
 import java.util.Locale;
 
-import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.R;
+import com.example.mylibrary.latin.common.StringUtils;
 
 public final class SpacingAndPunctuations {
     public final int[] mSortedWordSeparators;

@@ -27,7 +27,7 @@ import java.util.ArrayDeque;
 import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.keyboard.Key;
 import com.abifog.lokiboard.keyboard.Keyboard;
-import com.abifog.lokiboard.latin.utils.ResourceUtils;
+import com.example.mylibrary.latin.utils.ResourceUtils;
 
 /**
  * Container for keys in the keyboard. All keys in a row are at the same Y-coordinate.

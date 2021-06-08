@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.common;
+package com.example.mylibrary.latin.common;
 
 public final class CoordinateUtils {
     private static final int INDEX_X = 0;

@@ -21,8 +21,8 @@ import android.util.DisplayMetrics;
 import android.util.Log;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.define.DebugFlags;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.define.DebugFlags;
 
 // This hack is applied to certain classes of tablets.
 public final class BogusMoveEventDetector {

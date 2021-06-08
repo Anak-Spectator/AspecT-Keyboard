@@ -18,7 +18,7 @@ package com.abifog.lokiboard.keyboard.internal;
 
 import java.util.HashMap;
 
-import com.abifog.lokiboard.latin.common.Constants;
+import com.example.mylibrary.latin.common.Constants;
 
 public final class KeyboardCodesSet {
     public static final String PREFIX_CODE = "!code/";

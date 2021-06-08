@@ -16,7 +16,7 @@
 
 package com.abifog.lokiboard.keyboard;
 
-import com.abifog.lokiboard.latin.common.Constants;
+import com.example.mylibrary.latin.common.Constants;
 
 public interface KeyboardActionListener {
     /**

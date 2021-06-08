@@ -22,7 +22,7 @@ import android.view.MotionEvent;
 import com.abifog.lokiboard.keyboard.Key;
 import com.abifog.lokiboard.keyboard.KeyDetector;
 import com.abifog.lokiboard.keyboard.PointerTracker;
-import com.abifog.lokiboard.latin.common.CoordinateUtils;
+import com.example.mylibrary.latin.common.CoordinateUtils;
 
 public final class NonDistinctMultitouchHelper {
     private static final String TAG = NonDistinctMultitouchHelper.class.getSimpleName();

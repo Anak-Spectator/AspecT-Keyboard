@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
 /*
 **
 ** Copyright 2008, The Android Open Source Project
@@ -94,10 +93,10 @@
          This should be identical to subtype_sr_ZZ aside from the trailing (%s). -->
     <!-- Description for "LANGUAGE_NAME" (Traditional) keyboard subtype [CHAR LIMIT=25]
          (Traditional) can be an abbreviation to fit in the CHAR LIMIT. -->
-    <string name="subtype_generic_traditional"><xliff:g id="LANGUAGE_NAME" example="Nepali">%s</xliff:g> (Traditional)</string>
+    <string name="subtype_generic_traditional"><xliff:g example="Nepali" id="LANGUAGE_NAME">%s</xliff:g> (Traditional)</string>
     <!-- Description for "LANGUAGE_NAME" (Compact) keyboard subtype [CHAR LIMIT=25]
          (Compact) can be an abbreviation to fit in the CHAR LIMIT. -->
-    <string name="subtype_generic_compact"><xliff:g id="LANGUAGE_NAME" example="Hindi">%s</xliff:g> (Compact)</string>
+    <string name="subtype_generic_compact"><xliff:g example="Hindi" id="LANGUAGE_NAME">%s</xliff:g> (Compact)</string>
     <!-- This string is displayed in a language list that allows to choose a language for
 suggestions in a software keyboard. This setting won't give suggestions in any particular
 language, hence "No language".
@@ -201,7 +200,7 @@ mobile devices. [CHAR LIMIT=25] -->
     <!-- Title of the button to postpone enabling a custom input style entry in the settings dialog [CHAR LIMIT=15] -->
     <string name="not_now">Not now</string>
     <!-- Toast text to describe the same input style already exists [CHAR LIMIT=64]-->
-    <string name="custom_input_style_already_exists">"The same input style already exists: <xliff:g id="INPUT_STYLE_NAME" example="English (Dvorak)">%s</xliff:g>"</string>
+    <string name="custom_input_style_already_exists">"The same input style already exists: <xliff:g example="English (Dvorak)" id="INPUT_STYLE_NAME">%s</xliff:g>"</string>
 
     <!-- Title of the settings for keypress vibration duration [CHAR LIMIT=35] -->
     <string name="prefs_keypress_vibration_duration_settings">Keypress vibration duration</string>
@@ -213,7 +212,7 @@ mobile devices. [CHAR LIMIT=25] -->
     <!-- Title of the button to revert to the default value of the device in the settings dialog [CHAR LIMIT=15] -->
     <string name="button_default">Default</string>
 
-    <string translatable="false" name="abbreviation_unit_percent"><xliff:g id="PERCENTS">%s</xliff:g>%%</string>
+    <string name="abbreviation_unit_percent" translatable="false"><xliff:g id="PERCENTS">%s</xliff:g>%%</string>
 
     <string name="prefs_keyboard_height_settings">Keyboard height</string>
     <string name="keyboard_color">Set custom keyboard color</string>

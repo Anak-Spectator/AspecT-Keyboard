@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import android.content.res.Resources;
 import android.content.res.TypedArray;
@@ -30,7 +30,7 @@ import java.util.HashMap;
 import java.util.regex.PatternSyntaxException;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.settings.SettingsValues;
+import com.example.mylibrary.latin.settings.SettingsValues;
 
 public final class ResourceUtils {
     private static final String TAG = ResourceUtils.class.getSimpleName();

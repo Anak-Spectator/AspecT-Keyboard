@@ -21,8 +21,8 @@ import android.view.ViewConfiguration;
 
 import com.abifog.lokiboard.keyboard.Key;
 import com.abifog.lokiboard.keyboard.PointerTracker;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.utils.LeakGuardHandlerWrapper;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.utils.LeakGuardHandlerWrapper;
 
 public final class TimerHandler extends LeakGuardHandlerWrapper<DrawingProxy>
         implements TimerProxy {

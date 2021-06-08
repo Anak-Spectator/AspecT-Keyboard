@@ -45,12 +45,12 @@ import com.abifog.lokiboard.keyboard.internal.KeyPreviewView;
 import com.abifog.lokiboard.keyboard.internal.MoreKeySpec;
 import com.abifog.lokiboard.keyboard.internal.NonDistinctMultitouchHelper;
 import com.abifog.lokiboard.keyboard.internal.TimerHandler;
-import com.abifog.lokiboard.latin.RichInputMethodManager;
-import com.abifog.lokiboard.latin.RichInputMethodSubtype;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.CoordinateUtils;
-import com.abifog.lokiboard.latin.utils.LanguageOnSpacebarUtils;
-import com.abifog.lokiboard.latin.utils.TypefaceUtils;
+import com.example.mylibrary.latin.RichInputMethodManager;
+import com.example.mylibrary.latin.RichInputMethodSubtype;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.CoordinateUtils;
+import com.example.mylibrary.latin.utils.LanguageOnSpacebarUtils;
+import com.example.mylibrary.latin.utils.TypefaceUtils;
 
 /**
  * A view that is responsible for detecting key presses and touch movements.

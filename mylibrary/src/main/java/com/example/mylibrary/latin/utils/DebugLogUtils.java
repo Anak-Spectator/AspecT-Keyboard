@@ -14,11 +14,11 @@
  * the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import android.util.Log;
 
-import com.abifog.lokiboard.latin.define.DebugFlags;
+import com.example.mylibrary.latin.define.DebugFlags;
 
 /**
  * A class for logging and debugging utility methods.

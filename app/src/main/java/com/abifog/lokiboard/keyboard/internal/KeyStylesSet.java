@@ -27,7 +27,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.utils.XmlParseUtils;
+import com.example.mylibrary.latin.utils.XmlParseUtils;
 
 public final class KeyStylesSet {
     private static final String TAG = KeyStylesSet.class.getSimpleName();

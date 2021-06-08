@@ -37,12 +37,12 @@ import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.keyboard.internal.KeyboardBuilder;
 import com.abifog.lokiboard.keyboard.internal.KeyboardParams;
 import com.abifog.lokiboard.keyboard.internal.UniqueKeysCache;
-import com.abifog.lokiboard.latin.InputAttributes;
-import com.abifog.lokiboard.latin.RichInputMethodSubtype;
-import com.abifog.lokiboard.latin.utils.InputTypeUtils;
-import com.abifog.lokiboard.latin.utils.XmlParseUtils;
+import com.example.mylibrary.latin.InputAttributes;
+import com.example.mylibrary.latin.RichInputMethodSubtype;
+import com.example.mylibrary.latin.utils.InputTypeUtils;
+import com.example.mylibrary.latin.utils.XmlParseUtils;
 
-import static com.abifog.lokiboard.latin.common.Constants.ImeOption.NO_SETTINGS_KEY;
+import static com.example.mylibrary.latin.common.Constants.ImeOption.NO_SETTINGS_KEY;
 
 /**
  * This class represents a set of keyboard layouts. Each of them represents a different keyboard

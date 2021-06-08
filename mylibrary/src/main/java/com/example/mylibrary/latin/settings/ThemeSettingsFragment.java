@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -24,7 +24,7 @@ import android.preference.PreferenceScreen;
 
 import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.keyboard.KeyboardTheme;
-import com.abifog.lokiboard.latin.settings.RadioButtonPreference.OnRadioButtonClickedListener;
+import com.example.mylibrary.latin.settings.RadioButtonPreference.OnRadioButtonClickedListener;
 
 /**
  * "Keyboard theme" settings sub screen.

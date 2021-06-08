@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -29,11 +29,11 @@ import java.util.concurrent.locks.ReentrantLock;
 
 import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.keyboard.KeyboardTheme;
-import com.abifog.lokiboard.latin.AudioAndHapticFeedbackManager;
-import com.abifog.lokiboard.latin.InputAttributes;
-import com.abifog.lokiboard.latin.utils.AdditionalSubtypeUtils;
-import com.abifog.lokiboard.latin.utils.ResourceUtils;
-import com.abifog.lokiboard.latin.utils.RunInLocale;
+import com.example.mylibrary.latin.AudioAndHapticFeedbackManager;
+import com.example.mylibrary.latin.InputAttributes;
+import com.example.mylibrary.latin.utils.AdditionalSubtypeUtils;
+import com.example.mylibrary.latin.utils.ResourceUtils;
+import com.example.mylibrary.latin.utils.RunInLocale;
 
 public final class Settings implements SharedPreferences.OnSharedPreferenceChangeListener {
     private static final String TAG = Settings.class.getSimpleName();

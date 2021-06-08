@@ -39,11 +39,11 @@ import com.abifog.lokiboard.keyboard.Key;
 import com.abifog.lokiboard.keyboard.Keyboard;
 import com.abifog.lokiboard.keyboard.KeyboardId;
 import com.abifog.lokiboard.keyboard.KeyboardTheme;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.StringUtils;
-import com.abifog.lokiboard.latin.utils.ResourceUtils;
-import com.abifog.lokiboard.latin.utils.XmlParseUtils;
-import com.abifog.lokiboard.latin.utils.XmlParseUtils.ParseException;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.StringUtils;
+import com.example.mylibrary.latin.utils.ResourceUtils;
+import com.example.mylibrary.latin.utils.XmlParseUtils;
+import com.example.mylibrary.latin.utils.XmlParseUtils.ParseException;
 
 /**
  * Keyboard Building helper.

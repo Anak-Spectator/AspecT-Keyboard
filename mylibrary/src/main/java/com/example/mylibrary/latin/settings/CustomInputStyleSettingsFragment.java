@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -40,11 +40,11 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.RichInputMethodManager;
-import com.abifog.lokiboard.latin.utils.AdditionalSubtypeUtils;
-import com.abifog.lokiboard.latin.utils.DialogUtils;
-import com.abifog.lokiboard.latin.utils.IntentUtils;
-import com.abifog.lokiboard.latin.utils.SubtypeLocaleUtils;
+import com.example.mylibrary.latin.RichInputMethodManager;
+import com.example.mylibrary.latin.utils.AdditionalSubtypeUtils;
+import com.example.mylibrary.latin.utils.DialogUtils;
+import com.example.mylibrary.latin.utils.IntentUtils;
+import com.example.mylibrary.latin.utils.SubtypeLocaleUtils;
 
 public final class CustomInputStyleSettingsFragment extends PreferenceFragment
         implements CustomInputStylePreference.Listener {

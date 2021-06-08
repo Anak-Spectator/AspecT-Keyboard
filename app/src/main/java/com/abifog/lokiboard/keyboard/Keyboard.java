@@ -25,7 +25,7 @@ import java.util.List;
 import com.abifog.lokiboard.keyboard.internal.KeyVisualAttributes;
 import com.abifog.lokiboard.keyboard.internal.KeyboardIconsSet;
 import com.abifog.lokiboard.keyboard.internal.KeyboardParams;
-import com.abifog.lokiboard.latin.common.Constants;
+import com.example.mylibrary.latin.common.Constants;
 
 /**
  * Loads an XML description of a keyboard and stores the attributes of the keys. A keyboard

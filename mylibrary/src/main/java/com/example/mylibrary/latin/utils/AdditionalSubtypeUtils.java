@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import android.text.TextUtils;
 import android.util.Log;
@@ -24,8 +24,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.StringUtils;
 
 public final class AdditionalSubtypeUtils {
     private static final String TAG = AdditionalSubtypeUtils.class.getSimpleName();

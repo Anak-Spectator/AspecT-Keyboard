@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin;
+package com.example.mylibrary.latin;
 
 import android.inputmethodservice.InputMethodService;
 import android.os.SystemClock;
@@ -27,12 +27,12 @@ import android.view.inputmethod.ExtractedText;
 import android.view.inputmethod.ExtractedTextRequest;
 import android.view.inputmethod.InputConnection;
 
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.UnicodeSurrogate;
-import com.abifog.lokiboard.latin.settings.SpacingAndPunctuations;
-import com.abifog.lokiboard.latin.utils.CapsModeUtils;
-import com.abifog.lokiboard.latin.common.StringUtils;
-import com.abifog.lokiboard.latin.utils.DebugLogUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.UnicodeSurrogate;
+import com.example.mylibrary.latin.settings.SpacingAndPunctuations;
+import com.example.mylibrary.latin.utils.CapsModeUtils;
+import com.example.mylibrary.latin.common.StringUtils;
+import com.example.mylibrary.latin.utils.DebugLogUtils;
 
 /**
  * Enrichment class for InputConnection to simplify interaction and add functionality.

@@ -28,10 +28,10 @@ import com.abifog.lokiboard.keyboard.internal.BogusMoveEventDetector;
 import com.abifog.lokiboard.keyboard.internal.DrawingProxy;
 import com.abifog.lokiboard.keyboard.internal.PointerTrackerQueue;
 import com.abifog.lokiboard.keyboard.internal.TimerProxy;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.CoordinateUtils;
-import com.abifog.lokiboard.latin.define.DebugFlags;
-import com.abifog.lokiboard.latin.settings.Settings;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.CoordinateUtils;
+import com.example.mylibrary.latin.define.DebugFlags;
+import com.example.mylibrary.latin.settings.Settings;
 
 public final class PointerTracker implements PointerTrackerQueue.Element {
     private static final String TAG = PointerTracker.class.getSimpleName();

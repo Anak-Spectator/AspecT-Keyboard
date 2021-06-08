@@ -16,8 +16,8 @@
 
 package com.abifog.lokiboard.event;
 
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.StringUtils;
 
 /**
  * Class representing a generic input event as handled by Latin IME.

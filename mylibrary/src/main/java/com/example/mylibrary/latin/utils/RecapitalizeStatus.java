@@ -14,11 +14,11 @@
  * the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import java.util.Locale;
 
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.StringUtils;
 
 /**
  * The status of the current recapitalize process.

@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import android.text.InputType;
 import android.text.TextUtils;
 
 import java.util.ArrayList;
 
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.settings.SpacingAndPunctuations;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.settings.SpacingAndPunctuations;
 
 public final class CapsModeUtils {
     private CapsModeUtils() {

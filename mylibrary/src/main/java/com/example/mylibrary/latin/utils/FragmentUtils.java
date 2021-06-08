@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.utils;
+package com.example.mylibrary.latin.utils;
 
 import java.util.HashSet;
 
-import com.abifog.lokiboard.latin.settings.AdvancedSettingsFragment;
-import com.abifog.lokiboard.latin.settings.AppearanceSettingsFragment;
-import com.abifog.lokiboard.latin.settings.CustomInputStyleSettingsFragment;
-import com.abifog.lokiboard.latin.settings.PreferencesSettingsFragment;
-import com.abifog.lokiboard.latin.settings.SettingsFragment;
-import com.abifog.lokiboard.latin.settings.ThemeSettingsFragment;
+import com.example.mylibrary.latin.settings.AdvancedSettingsFragment;
+import com.example.mylibrary.latin.settings.AppearanceSettingsFragment;
+import com.example.mylibrary.latin.settings.CustomInputStyleSettingsFragment;
+import com.example.mylibrary.latin.settings.PreferencesSettingsFragment;
+import com.example.mylibrary.latin.settings.SettingsFragment;
+import com.example.mylibrary.latin.settings.ThemeSettingsFragment;
 
 public class FragmentUtils {
     private static final HashSet<String> sLatinImeFragments = new HashSet<>();

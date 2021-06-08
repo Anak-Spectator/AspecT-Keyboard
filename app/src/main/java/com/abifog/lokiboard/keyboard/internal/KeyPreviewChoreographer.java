@@ -26,8 +26,8 @@ import java.util.ArrayDeque;
 import java.util.HashMap;
 
 import com.abifog.lokiboard.keyboard.Key;
-import com.abifog.lokiboard.latin.common.CoordinateUtils;
-import com.abifog.lokiboard.latin.utils.ViewLayoutUtils;
+import com.example.mylibrary.latin.common.CoordinateUtils;
+import com.example.mylibrary.latin.utils.ViewLayoutUtils;
 
 /**
  * This class controls pop up key previews. This class decides:

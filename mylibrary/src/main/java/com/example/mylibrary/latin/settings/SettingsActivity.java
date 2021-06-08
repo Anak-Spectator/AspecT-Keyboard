@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.app.ActionBar;
 import android.app.AlertDialog;
@@ -28,8 +28,8 @@ import android.view.MenuItem;
 import android.view.inputmethod.InputMethodManager;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.RichInputMethodManager;
-import com.abifog.lokiboard.latin.utils.FragmentUtils;
+import com.example.mylibrary.latin.RichInputMethodManager;
+import com.example.mylibrary.latin.utils.FragmentUtils;
 
 public class SettingsActivity extends PreferenceActivity {
     private static final String DEFAULT_FRAGMENT = SettingsFragment.class.getName();

@@ -23,8 +23,8 @@ import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.keyboard.internal.KeyboardBuilder;
 import com.abifog.lokiboard.keyboard.internal.KeyboardParams;
 import com.abifog.lokiboard.keyboard.internal.MoreKeySpec;
-import com.abifog.lokiboard.latin.common.StringUtils;
-import com.abifog.lokiboard.latin.utils.TypefaceUtils;
+import com.example.mylibrary.latin.common.StringUtils;
+import com.example.mylibrary.latin.utils.TypefaceUtils;
 
 public final class MoreKeysKeyboard extends Keyboard {
     private final int mDefaultKeyCoordX;

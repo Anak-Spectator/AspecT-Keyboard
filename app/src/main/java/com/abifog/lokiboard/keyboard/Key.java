@@ -34,14 +34,14 @@ import com.abifog.lokiboard.keyboard.internal.KeyboardIconsSet;
 import com.abifog.lokiboard.keyboard.internal.KeyboardParams;
 import com.abifog.lokiboard.keyboard.internal.KeyboardRow;
 import com.abifog.lokiboard.keyboard.internal.MoreKeySpec;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.StringUtils;
 
 import static com.abifog.lokiboard.keyboard.internal.KeyboardIconsSet.ICON_UNDEFINED;
-import static com.abifog.lokiboard.latin.common.Constants.CODE_OUTPUT_TEXT;
-import static com.abifog.lokiboard.latin.common.Constants.CODE_SHIFT;
-import static com.abifog.lokiboard.latin.common.Constants.CODE_SWITCH_ALPHA_SYMBOL;
-import static com.abifog.lokiboard.latin.common.Constants.CODE_UNSPECIFIED;
+import static com.example.mylibrary.latin.common.Constants.CODE_OUTPUT_TEXT;
+import static com.example.mylibrary.latin.common.Constants.CODE_SHIFT;
+import static com.example.mylibrary.latin.common.Constants.CODE_SWITCH_ALPHA_SYMBOL;
+import static com.example.mylibrary.latin.common.Constants.CODE_UNSPECIFIED;
 
 /**
  * Class for describing the position and characteristics of a single key in the keyboard.

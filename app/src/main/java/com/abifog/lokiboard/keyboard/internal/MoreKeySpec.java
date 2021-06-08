@@ -24,9 +24,9 @@ import java.util.HashSet;
 import java.util.Locale;
 
 import com.abifog.lokiboard.keyboard.Key;
-import com.abifog.lokiboard.latin.common.CollectionUtils;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.CollectionUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.StringUtils;
 
 /**
  * The more key specification object. The more keys are an array of {@link MoreKeySpec}.

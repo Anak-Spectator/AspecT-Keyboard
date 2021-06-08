@@ -22,7 +22,7 @@ import android.view.inputmethod.InputMethodSubtype;
 
 import java.util.Locale;
 
-import com.abifog.lokiboard.latin.common.LocaleUtils;
+import com.example.mylibrary.latin.common.LocaleUtils;
 
 public final class InputMethodSubtypeCompatUtils {
     private InputMethodSubtypeCompatUtils() {

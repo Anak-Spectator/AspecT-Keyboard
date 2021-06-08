@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.common;
+package com.example.mylibrary.latin.common;
 
 import java.util.ArrayList;
 import java.util.Arrays;

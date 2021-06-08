@@ -29,15 +29,15 @@ import com.abifog.lokiboard.event.Event;
 import com.abifog.lokiboard.keyboard.KeyboardLayoutSet.KeyboardLayoutSetException;
 import com.abifog.lokiboard.keyboard.internal.KeyboardState;
 import com.abifog.lokiboard.keyboard.internal.KeyboardTextsSet;
-import com.abifog.lokiboard.latin.InputView;
-import com.abifog.lokiboard.latin.LatinIME;
-import com.abifog.lokiboard.latin.RichInputMethodManager;
-import com.abifog.lokiboard.latin.settings.Settings;
-import com.abifog.lokiboard.latin.settings.SettingsValues;
-import com.abifog.lokiboard.latin.utils.CapsModeUtils;
-import com.abifog.lokiboard.latin.utils.LanguageOnSpacebarUtils;
-import com.abifog.lokiboard.latin.utils.RecapitalizeStatus;
-import com.abifog.lokiboard.latin.utils.ResourceUtils;
+import com.example.mylibrary.latin.InputView;
+import com.example.mylibrary.latin.LatinIME;
+import com.example.mylibrary.latin.RichInputMethodManager;
+import com.example.mylibrary.latin.settings.Settings;
+import com.example.mylibrary.latin.settings.SettingsValues;
+import com.example.mylibrary.latin.utils.CapsModeUtils;
+import com.example.mylibrary.latin.utils.LanguageOnSpacebarUtils;
+import com.example.mylibrary.latin.utils.RecapitalizeStatus;
+import com.example.mylibrary.latin.utils.ResourceUtils;
 
 public final class KeyboardSwitcher implements KeyboardState.SwitchActions {
     private static final String TAG = KeyboardSwitcher.class.getSimpleName();

@@ -22,9 +22,9 @@ import android.text.TextUtils;
 
 import java.util.Locale;
 
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.utils.RunInLocale;
-import com.abifog.lokiboard.latin.utils.SubtypeLocaleUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.utils.RunInLocale;
+import com.example.mylibrary.latin.utils.SubtypeLocaleUtils;
 
 // TODO: Make this an immutable class.
 public final class KeyboardTextsSet {

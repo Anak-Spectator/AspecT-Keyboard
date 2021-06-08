@@ -18,7 +18,7 @@ package com.abifog.lokiboard.keyboard.internal;
 
 import android.graphics.Typeface;
 
-import com.abifog.lokiboard.latin.utils.ResourceUtils;
+import com.example.mylibrary.latin.utils.ResourceUtils;
 
 public final class KeyDrawParams {
     public Typeface mTypeface = Typeface.DEFAULT;

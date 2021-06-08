@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.abifog.lokiboard.latin.common;
+package com.example.mylibrary.latin.common;
 
 /**
  * Emojis are supplementary characters expressed as a low+high pair. For instance,

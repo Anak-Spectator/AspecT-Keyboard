@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.graphics.drawable.Drawable;
 

@@ -22,7 +22,7 @@ import android.preference.PreferenceManager;
 import android.util.Log;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.settings.Settings;
+import com.example.mylibrary.latin.settings.Settings;
 
 public final class KeyboardTheme {
     private static final String TAG = KeyboardTheme.class.getSimpleName();

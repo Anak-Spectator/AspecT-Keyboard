@@ -18,8 +18,8 @@ package com.abifog.lokiboard.keyboard.internal;
 
 import android.text.TextUtils;
 
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.common.StringUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.common.StringUtils;
 
 /**
  * The string parser of codesArray specification for <GridRows />. The attribute codesArray is an

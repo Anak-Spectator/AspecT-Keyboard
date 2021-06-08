@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin.settings;
+package com.example.mylibrary.latin.settings;
 
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
@@ -23,9 +23,10 @@ import android.view.inputmethod.EditorInfo;
 
 import java.util.Locale;
 
-import com.abifog.lokiboard.latin.InputAttributes;
-import com.abifog.lokiboard.latin.RichInputMethodManager;
-import com.abifog.lokiboard.latin.utils.RunInLocale;
+import com.example.mylibrary.R;
+import com.example.mylibrary.latin.InputAttributes;
+import com.example.mylibrary.latin.RichInputMethodManager;
+import com.example.mylibrary.latin.utils.RunInLocale;
 
 /**
  * When you call the constructor of this class, you may want to change the current system locale by

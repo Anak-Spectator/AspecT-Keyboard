@@ -21,7 +21,7 @@ import android.graphics.Typeface;
 import android.util.SparseIntArray;
 
 import com.abifog.lokiboard.R;
-import com.abifog.lokiboard.latin.utils.ResourceUtils;
+import com.example.mylibrary.latin.utils.ResourceUtils;
 
 public final class KeyVisualAttributes {
     public final Typeface mTypeface;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abifog.lokiboard.latin;
+package com.example.mylibrary.latin;
 
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
@@ -66,18 +66,18 @@ import com.abifog.lokiboard.keyboard.KeyboardActionListener;
 import com.abifog.lokiboard.keyboard.KeyboardId;
 import com.abifog.lokiboard.keyboard.KeyboardSwitcher;
 import com.abifog.lokiboard.keyboard.MainKeyboardView;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.define.DebugFlags;
-import com.abifog.lokiboard.latin.inputlogic.InputLogic;
-import com.abifog.lokiboard.latin.settings.Settings;
-import com.abifog.lokiboard.latin.settings.SettingsActivity;
-import com.abifog.lokiboard.latin.settings.SettingsValues;
-import com.abifog.lokiboard.latin.utils.ApplicationUtils;
-import com.abifog.lokiboard.latin.utils.DialogUtils;
-import com.abifog.lokiboard.latin.utils.IntentUtils;
-import com.abifog.lokiboard.latin.utils.LeakGuardHandlerWrapper;
-import com.abifog.lokiboard.latin.utils.ResourceUtils;
-import com.abifog.lokiboard.latin.utils.ViewLayoutUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.define.DebugFlags;
+import com.example.mylibrary.latin.inputlogic.InputLogic;
+import com.example.mylibrary.latin.settings.Settings;
+import com.example.mylibrary.latin.settings.SettingsActivity;
+import com.example.mylibrary.latin.settings.SettingsValues;
+import com.example.mylibrary.latin.utils.ApplicationUtils;
+import com.example.mylibrary.latin.utils.DialogUtils;
+import com.example.mylibrary.latin.utils.IntentUtils;
+import com.example.mylibrary.latin.utils.LeakGuardHandlerWrapper;
+import com.example.mylibrary.latin.utils.ResourceUtils;
+import com.example.mylibrary.latin.utils.ViewLayoutUtils;
 
 /**
  * Input method implementation for Qwerty'ish keyboard.

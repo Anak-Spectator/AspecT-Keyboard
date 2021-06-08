@@ -38,9 +38,9 @@ import java.util.HashSet;
 import com.abifog.lokiboard.R;
 import com.abifog.lokiboard.keyboard.internal.KeyDrawParams;
 import com.abifog.lokiboard.keyboard.internal.KeyVisualAttributes;
-import com.abifog.lokiboard.latin.common.Constants;
-import com.abifog.lokiboard.latin.settings.Settings;
-import com.abifog.lokiboard.latin.utils.TypefaceUtils;
+import com.example.mylibrary.latin.common.Constants;
+import com.example.mylibrary.latin.settings.Settings;
+import com.example.mylibrary.latin.utils.TypefaceUtils;
 
 /**
  * A view that renders a virtual {@link Keyboard}.
